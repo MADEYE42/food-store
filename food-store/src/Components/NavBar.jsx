@@ -7,7 +7,7 @@ import { TfiHelp } from "react-icons/tfi";
 import { FaL, FaPeoplePulling } from "react-icons/fa6";
 
 const NavBar = () => {
-    const [nav,setNav]= useState(true);
+    const [nav,setNav]= useState(false);
   return (
     <div className="max-w-[1640px] mx-auto flex justify-between items-center p-4 font-[Poppins]">
       <div className="flex items-center">
