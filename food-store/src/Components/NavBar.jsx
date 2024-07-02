@@ -18,7 +18,7 @@ const NavBar = () => {
           Get <span className="font-bold">Fat</span>
         </h1>
         <div className="hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[14px] ">
-            <p className="bg-black text-white p-2 rounded-full">Delivery</p>
+            <p className="bg-black text-white p-2 rounded-full ">Delivery</p>
             <p>Pickup</p>
         </div>
       </div>
